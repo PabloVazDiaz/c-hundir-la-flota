@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513602104 source:c:\documents and settings\pablo\escritorio\dam\programacion\hundir la flota\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1513805929 source:c:\users\pablo\google drive\dam\programacion\hundir la flota\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
